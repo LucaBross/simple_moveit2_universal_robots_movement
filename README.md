@@ -9,6 +9,7 @@ The difference to the hello_moveit file is, that there is the ur_manipulator ins
 **Requirements** 
 
 I installed ROS2 Humble: https://docs.ros.org/en/humble/index.html
+
 I installed the ROS2 UR Driver: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver
 
 **How to**
