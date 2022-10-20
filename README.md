@@ -1,4 +1,4 @@
-# simple_moveit2_universal_robot
+# simple_moveit2_universal_robot_movement
 
 This repository will simply move a ur3e to a target pose. 
 The hello_moveit_ur file is explained here: https://moveit.picknik.ai/humble/doc/tutorials/your_first_project/your_first_project.html
