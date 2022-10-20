@@ -14,7 +14,7 @@ I installed the ROS2 UR Driver: https://github.com/UniversalRobots/Universal_Rob
 
 Start `ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur3e robot_ip:=192.168.1.102 launch_rviz:=false initial_joint_controller:=joint_trajectory_controller` to connect to the Universal Robot. 
 
-Start the `e`xternal control file` on the UR to allow external control. 
+Start the `external control file` on the UR to allow external control. 
 
 Start the `ros2 launch ur_moveit_config ur_moveit.launch.py ur_type:=ur3e launch_rviz:=true` to cofigure moveit. 
 
